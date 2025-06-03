@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Cw1.Login">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="components" Hidden="true" />
+      <Field Name="customerB" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="panel1" Hidden="true" />
+      <Field Name="panel2" Hidden="true" />
+      <Field Name="pictureBox1" Hidden="true" />
+      <Field Name="pictureBox2" Hidden="true" />
+      <Field Name="pictureBox3" Hidden="true" />
+      <Field Name="staffB" Hidden="true" />
+      <Field Name="welcomeL" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAJABACAAAAAAAACAIAACAAAAAAAAAAAAAQxAAAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cw1.StaffLogin">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="backB" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="line" Hidden="true" />
+      <Field Name="loginB" Hidden="true" />
+      <Field Name="loginL" Hidden="true" />
+      <Field Name="passwordL" Hidden="true" />
+      <Field Name="passwordTB" Hidden="true" />
+      <Field Name="rememberCB" Hidden="true" />
+      <Field Name="userCB" Hidden="true" />
+      <Field Name="userL" Hidden="true" />
+      <Field Name="usernameL" Hidden="true" />
+      <Field Name="usernameTB" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAUAQAQAJCAAACAQAACAAAECQAAAAAAAAABAAgCiUQA=</HashCode>
+      <FileName>StaffLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cw1.LoginSerializable">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAQAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>LoginSerializable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cw1.Feedback">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="averageL" Hidden="true" />
+      <Field Name="clearB" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="contactL" Hidden="true" />
+      <Field Name="contactTB" Hidden="true" />
+      <Field Name="criteriaL" Hidden="true" />
+      <Field Name="criteriaS1" Hidden="true" />
+      <Field Name="currentD" Hidden="true" />
+      <Field Name="currentT" Hidden="true" />
+      <Field Name="dateL" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="dissatisfiedL" Hidden="true" />
+      <Field Name="emailL" Hidden="true" />
+      <Field Name="emailTB" Hidden="true" />
+      <Field Name="excellentL" Hidden="true" />
+      <Field Name="exitToolStripMenuItem" Hidden="true" />
+      <Field Name="goodL" Hidden="true" />
+      <Field Name="headerPanel" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="logoL" Hidden="true" />
+      <Field Name="menuStrip1" Hidden="true" />
+      <Field Name="menuStrip2" Hidden="true" />
+      <Field Name="nameL" Hidden="true" />
+      <Field Name="nameTB" Hidden="true" />
+      <Field Name="overallL" Hidden="true" />
+      <Field Name="overallTB" Hidden="true" />
+      <Field Name="pictureBox1" Hidden="true" />
+      <Field Name="retrieveBtn" Hidden="true" />
+      <Field Name="serviceNameCL" Hidden="true" />
+      <Field Name="sNameCB" Hidden="true" />
+      <Field Name="submitB" Hidden="true" />
+      <Field Name="timeL" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>EUTCEhUCRKhAAQcoQBrAAAICDEkAFCAECAAAAABCAIE=</HashCode>
+      <FileName>Feedback.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cw1.General">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="backBtn" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="generalViewL" Hidden="true" />
+      <Field Name="importBtn" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="panel1" Hidden="true" />
+      <Field Name="panel2" Hidden="true" />
+      <Field Name="pictureBox1" Hidden="true" />
+      <Field Name="pictureBox2" Hidden="true" />
+      <Field Name="pictureBox3" Hidden="true" />
+      <Field Name="reportBtn" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>CAAAABAIACIAAAgAAADAAAEDAAAAAAAAAAAAAQBAAAA=</HashCode>
+      <FileName>General.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cw1.Admin">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <Members>
+      <Field Name="addB" Hidden="true" />
+      <Field Name="adminPageL" Hidden="true" />
+      <Field Name="clearBtn" Hidden="true" />
+      <Field Name="clearToolStripMenuItem" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="criteriaLU" Hidden="true" />
+      <Field Name="criteriaNameL" Hidden="true" />
+      <Field Name="criteriaNameTB" Hidden="true" />
+      <Field Name="criteriaUTB" Hidden="true" />
+      <Field Name="deleteB" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="exitBtn" Hidden="true" />
+      <Field Name="idL" Hidden="true" />
+      <Field Name="idTB" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="panel1" Hidden="true" />
+      <Field Name="panel2" Hidden="true" />
+      <Field Name="pictureBox1" Hidden="true" />
+      <Field Name="serviceNameCB" Hidden="true" />
+      <Field Name="serviceNameL" Hidden="true" />
+      <Field Name="serviceNTB" Hidden="true" />
+      <Field Name="serviceUCB" Hidden="true" />
+      <Field Name="updateB" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>QCEEAAQ8DCIAMAAAAACAARACAAEABFAIAAgAESBCIgA=</HashCode>
+      <FileName>Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cw1.CustomerSerializable">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAQAAAAAAQAAAAAAAAAAAACAAAAAAQAAAAA=</HashCode>
+      <FileName>CustomerSerializable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cw1.Import">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="clearBtn" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="exitBtn" Hidden="true" />
+      <Field Name="generalViewL" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="openFileDialog" Hidden="true" />
+      <Field Name="panel1" Hidden="true" />
+      <Field Name="pictureBox1" Hidden="true" />
+      <Field Name="uploadBtn" Hidden="true" />
+      <Field Name="uploadL" Hidden="true" />
+      <Field Name="uploadTB" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAQkBCIAAggAAACAQDAKAAEAAAAAAAgAAQBAAAA=</HashCode>
+      <FileName>Import.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cw1.Report">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <Members>
+      <Field Name="chart1" Hidden="true" />
+      <Field Name="chartB" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="dateFromL" Hidden="true" />
+      <Field Name="dateFromP" Hidden="true" />
+      <Field Name="dateToL" Hidden="true" />
+      <Field Name="dateToP" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="exitToolStripMenuItem" Hidden="true" />
+      <Field Name="fileToolStripMenuItem" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="menuStrip" Hidden="true" />
+      <Field Name="openFileDialog" Hidden="true" />
+      <Field Name="openToolStripMenuItem" Hidden="true" />
+      <Field Name="pictureBox1" Hidden="true" />
+      <Field Name="reportL" Hidden="true" />
+      <Field Name="searchBtn" Hidden="true" />
+      <Field Name="serviceNameRL" Hidden="true" />
+      <Field Name="serviceNameTB" Hidden="true" />
+      <Field Name="tableGV" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>BISAAgSQBCgAAAAAAgCAQAACAQEQAAAgAmAAAABCAAA=</HashCode>
+      <FileName>Report.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
